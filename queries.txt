@@ -1,0 +1,25 @@
+"gold price" OR "spot gold" OR bullion OR XAU OR XAUUSD
+"gold futures" OR "COMEX gold" OR "GC=F" OR "gold contract"
+LBMA OR "London Gold" OR "LBMA Gold Price" OR "gold fix"
+"US dollar index" OR DXY OR "king dollar"
+"10-year Treasury" OR "10y yield" OR "Treasury yields" OR "real yields" OR TIPS
+"breakeven inflation" OR "5y5y inflation expectation"
+"US CPI" OR "inflation rate" OR "core CPI" OR "headline CPI"
+"PCE price index" OR "core PCE"
+"nonfarm payrolls" OR NFP OR "unemployment rate" OR "jobless claims"
+"ISM manufacturing PMI" OR "ISM services PMI" OR "S&P Global PMI"
+"retail sales" OR "durable goods orders" OR "factory orders"
+"producer price index" OR PPI
+"GDP growth" OR "US GDP" OR "recession risk" OR "soft landing"
+"consumer confidence" OR "Michigan sentiment" OR "Conference Board"
+FOMC OR "Fed decision" OR "interest rate decision" OR "Fed minutes" OR "dot plot"
+"Powell speech" OR "Powell remarks" OR "Jackson Hole"
+"ECB decision" OR Lagarde OR "BoE decision" OR "BoJ" OR Ueda OR "YCC" OR "PBoC"
+"GLD holdings" OR "SPDR Gold Shares" OR "gold ETF flows"
+"World Gold Council" OR "central bank gold" OR "gold reserves" OR "gold purchases"
+"China gold demand" OR "SGE premium" OR "Shanghai Gold Exchange"
+"India gold imports" OR "jewellery demand" OR Diwali
+"oil price" OR Brent OR WTI
+Ukraine OR "Middle East" OR Gaza OR Iran OR Israel OR Taiwan OR "South China Sea" OR sanctions OR escalation
+risk-off OR "safe haven" OR "flight to safety" OR "market turmoil"
+"XAUT" OR "XAUT/USDT" OR "Tether Gold"
