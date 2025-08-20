@@ -13,8 +13,8 @@ END_UTC = pd.Timestamp("2025-08-18 23:59:59", tz="UTC")
 MEXC_URL = "https://www.mexc.com/api/v2/market/kline"
 
 # Kandidat simbol untuk data TradingView
-TV_USERNAME = None  # Isi dengan username TradingView jika perlu
-TV_PASSWORD = None  # Isi dengan password TradingView jika perlu
+cariantohs02 = None  # Isi dengan username TradingView jika perlu
+@Hottua140296 = None  # Isi dengan password TradingView jika perlu
 
 # Data yang akan digunakan
 XAUT_CANDIDATES = [("BYBIT", "XAUT_USDT"), ("MEXC", "XAUT_USDT"), ("OKX", "XAUT-USDT")]
